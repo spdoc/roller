@@ -29,7 +29,7 @@ Hit the Roller Confluence wiki:
 
 ## Quick start: Running via Maven
 
-Assuming you've got a UNIX shell, Java, Maven and Git:
+Assuming you've got a UNIX shell, Java 11, Maven 3.5 or later and Git:
 
 Get the code:
 
